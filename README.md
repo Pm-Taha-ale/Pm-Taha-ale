@@ -31,19 +31,15 @@ I'm a Frontend Developer specializing in WordPress and Elementor development, wi
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pm-Taha-ale&show_icons=true&theme=tokyonight&hide_border=true" alt="Taha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pm-Taha-ale&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Taha's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pm-Taha-ale&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Pm-Taha-ale&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-ale/)
